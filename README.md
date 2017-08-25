@@ -15,11 +15,11 @@ Azure        bacongobbler deis         kubernetes
 
 Releases are available for most platforms.
 
-Windows amd64:
-MacOS amd64:
-Linux amd64:
-Linux i386:
-Linux ARM:
+- [Windows amd64](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-windows-amd64.tar.gz) ([checksum](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-windows-amd64.tar.gz.sha256))
+- [MacOS amd64](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-darwin-amd64.tar.gz) ([checksum](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-darwin-amd64.tar.gz.sha256))
+- [Linux amd64](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-linux-amd64.tar.gz) ([checksum](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-linux-amd64.tar.gz.sha256))
+- [Linux i386](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-linux-386.tar.gz) ([checksum](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-linux-386.tar.gz.sha256))
+- [Linux ARM](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-linux-arm.tar.gz) ([checksum](https://bacongobbler.blob.core.windows.net/canadaeh/eh-v1.0.0-linux-arm.tar.gz.sha256))
 
 You can also build this project from source with `go get`.
 
